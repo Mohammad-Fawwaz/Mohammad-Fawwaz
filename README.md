@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://cyberblogsbyfawwaz.blogspot.com/](https://cyberblogsbyfawwaz.blogspot.com/)
 
-- 📫 How to reach me **2000030641cse@gmail.com**
+- 📫 How to reach me **mohammedfawwaz07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
