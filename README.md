@@ -8,6 +8,17 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+
+# Project Overview 
+|     Project     |                 Skills                |     Tools       |      Link       |
+| --------------- | ------------------------------------- | --------------- | --------------- |
+| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
+|                 |                                       |                 |                 |
+|                 |                                       |                 |                 |
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed-fawwaz-197a39221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-fawwaz-197a39221" height="30" width="40" /></a>
