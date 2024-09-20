@@ -12,8 +12,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      PROJECT LINK      |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Ethical Hacking using metasploit | Nmap, Metasploit Framework  | Nmap, Metasploit, Kali Linux|  <a href="https://github.com/Mohammad-Fawwaz/Ethical-Hackin-With-Metasploit/blob/main/README.md">PROJECT</a>   |
-|                 |                                       |                 |                 |
+| Ethical Hacking using metasploit | Vulnerability Scanning, Metasploit Framework  | Nmap, Metasploit, Kali Linux|  <a href="https://github.com/Mohammad-Fawwaz/Ethical-Hackin-With-Metasploit/blob/main/README.md">PROJECT</a>   |
+|Nessus Scanner on Metasploitable2|Network Scanning, Report Making|Nessus,Metasploitable2,Kali Linux|<a href="https://github.com/Mohammad-Fawwaz/Nessus-Vulnerability-Scanner-on-Metasploitable2/blob/main/README.md">PROJECT</a>  |
 |                 |                                       |                 |                 |
 
 
